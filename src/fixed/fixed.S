@@ -104,4 +104,3 @@ q_mul_asm:
     or      a0, t3, t0              # result
     ret
     .size   q_mul_asm, .-q_mul_asm
-    
